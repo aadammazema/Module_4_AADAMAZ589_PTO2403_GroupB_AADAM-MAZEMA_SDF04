@@ -38,3 +38,14 @@ Embark on this CSS journey to transform simple buttons into interactive, animate
 - Submit the link to your GitHub repository on the LMS under the SDF04 project tab.
 
 Embark on this CSS journey to transform simple buttons into interactive, animated elements. Let your creativity shine and enjoy the process of bringing static elements to life!
+________________________________________________________________________________________________________________________________________________________________________________
+
+Magic buttons project
+
+With this project i wanted to create buttons that are simple but elegant in how they function upon hover and click. At first I was struggling with inspiration for how my buttons
+should look and react but once I asked myself what I would want in a button the ideas started coming. I added slight quirks to give a seemingly insignificant tool just a touch of 
+personality. After this project I have a new found respect for the button, such a overlooked function but its the small details that make an overall difference. 
+
+At first I was moving really slowly and lacking motivation but once i realised I'm allowed to change the button content I was able to have some fun with it. I tried to match the 
+action of the button with the intended use and I am happy with how it came out especially with the 'X' button how ever I would have liked to have it open to say exit once I hover
+but I could'nt get it done. 
