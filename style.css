@@ -49,6 +49,47 @@ p {
         7px 7px 20px 0px rgba(0, 0, 0, .1),
         4px 4px 5px 0px rgba(0, 0, 0, .1);
     outline: none;
+    /* Add your custom styles for btn-1, btn-2, and btn-3 */
 }
-
-/* Add your custom styles for btn-1, btn-2, and btn-3 */
+.btn-1 {
+    background: rgb(5,135,95);
+    background: linear-gradient(0deg, rgba(5,135,95,1) 0%, rgba(21,240,174,1) 100%);
+  }
+  .btn-1:hover {
+     background: #0BD79A;
+    transform: scale(0.97);
+    transition: transform 0.1s;
+  }
+  .btn-1:active{
+    transform: translateY(4px);
+  }
+  
+  .btn-2 {
+    color:white;
+    background: #163E06;
+    border:none;
+  }
+  .btn-2:hover{
+    opacity:0.6;
+    transition:0.2s;
+  }
+  .btn-2:active{
+    background: #51E216;
+  }
+  .btn-3 {
+    width: 60px;
+    height: 40px;
+    border-radius: 40px;
+    background: #B2AFAF;
+    border: none;
+    box-shadow: none;
+  }
+  .btn-3:hover{
+    color: #FFFFFF;
+    width: 130px;
+    background: #C50101;
+  }
+  .btn-3:active{
+    color: transparent;
+    background: transparent;
+  }
